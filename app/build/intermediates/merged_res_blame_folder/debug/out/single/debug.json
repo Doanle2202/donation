@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_donate.xml.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\layout\\activity_donate.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\layout_content_donate.xml.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\layout\\content_donate.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\layout_row_donate.xml.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\layout\\row_donate.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_donate.xml.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\menu\\menu_donate.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Donation.4.0\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_report.xml.flat",
+        "source": "D:\\mobile\\Donation.4.0\\app\\src\\main\\res\\layout\\activity_report.xml"
+    }
+]

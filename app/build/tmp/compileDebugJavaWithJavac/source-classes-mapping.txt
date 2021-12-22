@@ -1,0 +1,19 @@
+ie/app/database/DBManager.java
+ ie.app.database.DBManager
+ie/app/modals/DonationAdapter.java
+ ie.app.modals.DonationAdapter
+ie/app/database/DBDesigner.java
+ ie.app.database.DBDesigner
+ie/app/BuildConfig.java
+ ie.app.BuildConfig
+ie/app/modals/Donation.java
+ ie.app.modals.Donation
+ie/app/activities/Base.java
+ ie.app.activities.Base
+ie/app/main/DonationApp.java
+ ie.app.main.DonationApp
+ie/app/activities/Report.java
+ ie.app.activities.Report
+ie/app/activities/Donate.java
+ ie.app.activities.Donate
+ ie.app.activities.Donate$1

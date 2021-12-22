@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\c08154b12ec905739cab551e115fed20\transformed\design-23.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\2bebf8ed7e55b85cba0fb922689eaac4\transformed\appcompat-v7-23.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\bb437038be5f25c266698b5b231519bb\transformed\support-v4-23.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:3:5-21
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\c08154b12ec905739cab551e115fed20\transformed\design-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\c08154b12ec905739cab551e115fed20\transformed\design-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\2bebf8ed7e55b85cba0fb922689eaac4\transformed\appcompat-v7-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\2bebf8ed7e55b85cba0fb922689eaac4\transformed\appcompat-v7-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\bb437038be5f25c266698b5b231519bb\transformed\support-v4-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\bb437038be5f25c266698b5b231519bb\transformed\support-v4-23.0.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:11:9-47
+activity#ie.app.activities.Base
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:13:13-44
+activity#ie.app.activities.Donate
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:16:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:22:27-74
+activity#ie.app.activities.Report
+ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml:25:19-52
+uses-sdk
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\c08154b12ec905739cab551e115fed20\transformed\design-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\c08154b12ec905739cab551e115fed20\transformed\design-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\2bebf8ed7e55b85cba0fb922689eaac4\transformed\appcompat-v7-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\2bebf8ed7e55b85cba0fb922689eaac4\transformed\appcompat-v7-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\bb437038be5f25c266698b5b231519bb\transformed\support-v4-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Modern 14\.gradle\caches\transforms-3\bb437038be5f25c266698b5b231519bb\transformed\support-v4-23.0.1\AndroidManifest.xml:20:5-43
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Donation.4.0\app\src\main\AndroidManifest.xml
